@@ -1,7 +1,7 @@
 HIV-SCAN-CER
 ================
 Antoine Chaillon and Davey M Smith
-2023-12-24
+2023-12-25
 
 ------------------------------------------------------------------------
 
@@ -244,7 +244,25 @@ genes](https://pubmed.ncbi.nlm.nih.gov/10333246/).
 
 ------------------------------------------------------------------------
 
-## Examples of our findings
+## Landscape of HIV IS
+
+Only 3 tissues (tracks) per participant are shown
+
+### Participant with anal squamous cell carcinoma (SCC)
+
+![](HIV-SCAN-CER_files/figure-gfm/track-scc-1.png)<!-- -->
+
+### Participant with breast cancer
+
+![](HIV-SCAN-CER_files/figure-gfm/track-breast-1.png)<!-- -->
+
+### Participant with lung adenocarcinoma
+
+![](HIV-SCAN-CER_files/figure-gfm/track-lung-1.png)<!-- -->
+
+------------------------------------------------------------------------
+
+## Tumor and HIV lanscape
 
 ### Participant with lung cancer
 
